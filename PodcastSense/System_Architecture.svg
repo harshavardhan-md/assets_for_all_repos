@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto">
+      <path d="M0 0 L6 3 L0 6 z" fill="#6366F1"/>
+    </marker>
+  </defs>
+  <rect width="800" height="400" fill="#f8f9fa" rx="20"/>
+  <g transform="translate(50,50)">
+    <rect width="150" height="60" fill="#6366F1" rx="10"/>
+    <text x="75" y="35" fill="white" text-anchor="middle" font-family="Arial">Streamlit UI</text>
+  </g>
+  <g transform="translate(300,50)">
+    <rect width="150" height="60" fill="#6366F1" rx="10"/>
+    <text x="75" y="35" fill="white" text-anchor="middle" font-family="Arial">Gemini AI</text>
+  </g>
+  <g transform="translate(550,50)">
+    <rect width="150" height="60" fill="#6366F1" rx="10"/>
+    <text x="75" y="35" fill="white" text-anchor="middle" font-family="Arial">YouTube API</text>
+  </g>
+  <path d="M200,80 L300,80" stroke="#6366F1" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M450,80 L550,80" stroke="#6366F1" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>
