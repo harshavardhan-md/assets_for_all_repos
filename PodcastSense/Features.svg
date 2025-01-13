@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <defs>
+    <style>.feature-box{fill:#f8f9fa;stroke:#6366F1;stroke-width:2;stroke-radius:10}</style>
+  </defs>
+  <rect class="feature-box" x="10" y="10" width="280" height="130" rx="10"/>
+  <text x="25" y="45" font-family="Arial" font-size="16">
+    <tspan x="25" y="45">🎙️ Smart Q&amp;A</tspan>
+    <tspan x="25" y="70">🎙️ Voice Synthesis</tspan>
+    <tspan x="25" y="95">🎙️ Intelligent Transcription</tspan>
+  </text>
+  <rect class="feature-box" x="310" y="10" width="280" height="130" rx="10"/>
+  <text x="325" y="45" font-family="Arial" font-size="16">
+    <tspan x="325" y="45">💡 Multi-Platform Support</tspan>
+    <tspan x="325" y="70">💡 Real-Time Processing</tspan>
+    <tspan x="325" y="95">💡 Deep Context Understanding</tspan>
+  </text>
+</svg>
