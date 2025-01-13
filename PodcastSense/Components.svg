@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <style>
+      .component-box {
+        fill: #f8f9fa;
+        stroke: #6366F1;
+        stroke-width: 2;
+        stroke-radius: 10;
+      }
+    </style>
+  </defs>
+
+  <rect width="600" height="400" fill="white"/>
+
+  <!-- UI Components -->
+  <g transform="translate(50,50)">
+    <rect class="component-box" width="200" height="100" rx="10"/>
+    <text x="100" y="55" text-anchor="middle" font-family="Arial">UI Components</text>
+  </g>
+
+  <!-- AI Engine -->
+  <g transform="translate(350,50)">
+    <rect class="component-box" width="200" height="100" rx="10"/>
+    <text x="100" y="55" text-anchor="middle" font-family="Arial">AI Engine</text>
+  </g>
+</svg>
