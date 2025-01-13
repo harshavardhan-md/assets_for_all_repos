@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="roadmapGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4F46E5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="#f8f9fa" rx="15"/>
+
+  <!-- Phase 1: Beta -->
+  <g transform="translate(50,40)">
+    <rect width="150" height="60" fill="url(#roadmapGrad)" rx="10"/>
+    <text x="75" y="35" fill="white" text-anchor="middle" font-family="Arial">Phase 1: Beta</text>
+  </g>
+
+  <!-- Phase 2: V1.0 -->
+  <g transform="translate(250,40)">
+    <rect width="150" height="60" fill="#808794" rx="10"/>
+    <text x="75" y="35" fill="white" text-anchor="middle" font-family="Arial">Phase 2: V1.0</text>
+  </g>
+
+  <!-- Phase 3: Pro V2 -->
+  <g transform="translate(450,40)">
+    <rect width="150" height="60" fill="#808794" rx="10"/>
+    <text x="75" y="35" fill="white" text-anchor="middle" font-family="Arial">Phase 3: Pro v2</text>
+  </g>
+
+  <!-- Connecting Lines -->
+  <path d="M200,70 L250,70" stroke="#6366F1" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M400,70 L450,70" stroke="#6366F1" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>
