@@ -1,7 +1,8 @@
 ---
 
+```markdown
 <p align="center">
-  <img src="https://via.placeholder.com/150/FF6F61/FFFFFF?text=✨" alt="Sparkle Icon" width="100">
+  <img src="https://img.icons8.com/color/96/000000/sparkling-diamond.png" alt="Sparkle Icon" width="100">
 </p>
 
 <h1 align="center">🌟 Centralized Image Repository 🌟</h1>
@@ -77,9 +78,9 @@ To reference an image in another repository, use the raw URL of the image from t
 Here are some previews of the cute illustrations and SVGs you can use:
 
 <p align="center">
-  <img src="https://via.placeholder.com/200/FF6F61/FFFFFF?text=🖼️" alt="Illustration 1" width="100">
-  <img src="https://via.placeholder.com/200/FF6F61/FFFFFF?text=🎨" alt="Illustration 2" width="100">
-  <img src="https://via.placeholder.com/200/FF6F61/FFFFFF?text=✨" alt="Illustration 3" width="100">
+  <img src="https://img.icons8.com/color/96/000000/camera.png" alt="Illustration 1" width="100">
+  <img src="https://img.icons8.com/color/96/000000/folder.png" alt="Illustration 2" width="100">
+  <img src="https://img.icons8.com/color/96/000000/paint-palette.png" alt="Illustration 3" width="100">
 </p>
 
 ---
@@ -101,7 +102,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/150/FF6F61/FFFFFF?text=❤️" alt="Heart Icon" width="100">
+  <img src="https://img.icons8.com/color/96/000000/heart.png" alt="Heart Icon" width="100">
 </p>
 
 <h3 align="center">Made with ❤️ by [Your Name]</h3>
@@ -123,5 +124,13 @@ You can create these SVGs using tools like [Figma](https://www.figma.com/) or [C
 Use [Shields.io](https://shields.io/) to add badges to your README for an extra touch of professionalism. For example:
 
 ![GitHub License](https://img.shields.io/github/license/your-username/centralized-image-repo?color=blue&style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/your-username/centralized-image-repo?color=green&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/your-username/centralized-image-repo?color=yellow&style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/your-username/centralized-image-repo?color=orange&style=for-the-badge)
+
+---
+
+Let me know if you’d like further tweaks or additional sections! This README is ready to make your repo shine like a diamond. ✨
+```
 
 ---
