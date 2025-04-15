@@ -55,20 +55,20 @@
 
   <!-- Timeline content boxes -->
   <!-- Q3 2025 -->
-  <rect x="200" y="260" width="240" height="180" rx="15" ry="15" fill="white" stroke="#37a779" stroke-width="2" filter="url(#shadow)" />
-  <text x="220" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#37a779">Q3 2025</text>
+  <rect x="180" y="260" width="240" height="200" rx="10" ry="15" fill="white" stroke="#37a779" stroke-width="2" filter="url(#shadow)" />
+  <text x="200" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#37a779">Q3 2025</text>
   
-  <text x="235" y="325" font-family="Arial, sans-serif" font-size="14" fill="#333333">🗣️ Expansion to 12 regional</text>
-  <text x="250" y="345" font-family="Arial, sans-serif" font-size="14" fill="#333333">Indian languages</text>
+  <text x="215" y="325" font-family="Arial, sans-serif" font-size="14" fill="#333333">🗣️ Expansion to 12 regional</text>
+  <text x="235" y="345" font-family="Arial, sans-serif" font-size="14" fill="#333333">Indian languages</text>
   
-  <text x="235" y="375" font-family="Arial, sans-serif" font-size="14" fill="#333333">🎭 AR experiences for</text>
-  <text x="250" y="395" font-family="Arial, sans-serif" font-size="14" fill="#333333">historical site visualization</text>
+  <text x="215" y="375" font-family="Arial, sans-serif" font-size="14" fill="#333333">🎭 AR experiences for</text>
+  <text x="235" y="395" font-family="Arial, sans-serif" font-size="14" fill="#333333">historical site visualization</text>
   
-  <text x="235" y="425" font-family="Arial, sans-serif" font-size="14" fill="#333333">🧵 Direct partnership with</text>
-  <text x="250" y="445" font-family="Arial, sans-serif" font-size="14" fill="#333333">500+ rural artisans</text>
+  <text x="215" y="425" font-family="Arial, sans-serif" font-size="14" fill="#333333">🧵 Direct partnership with</text>
+  <text x="235" y="445" font-family="Arial, sans-serif" font-size="14" fill="#333333">500+ rural artisans</text>
 
   <!-- Q4 2025 -->
-  <rect x="380" y="260" width="240" height="180" rx="15" ry="15" fill="white" stroke="#4285F4" stroke-width="2" filter="url(#shadow)" />
+  <rect x="380" y="260" width="240" height="200" rx="15" ry="15" fill="white" stroke="#4285F4" stroke-width="2" filter="url(#shadow)" />
   <text x="400" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4285F4">Q4 2025</text>
   
   <text x="415" y="325" font-family="Arial, sans-serif" font-size="14" fill="#333333">🌍 Integration with major</text>
@@ -81,7 +81,7 @@
   <text x="430" y="445" font-family="Arial, sans-serif" font-size="14" fill="#333333">curated craft deliveries</text>
 
   <!-- 2026 and Beyond -->
-  <rect x="560" y="260" width="240" height="180" rx="15" ry="15" fill="white" stroke="#FF4B4B" stroke-width="2" filter="url(#shadow)" />
+  <rect x="560" y="260" width="240" height="200" rx="15" ry="15" fill="white" stroke="#FF4B4B" stroke-width="2" filter="url(#shadow)" />
   <text x="580" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FF4B4B">2026 and Beyond</text>
   
   <text x="595" y="325" font-family="Arial, sans-serif" font-size="14" fill="#333333">🌐 Expansion to Southeast</text>
